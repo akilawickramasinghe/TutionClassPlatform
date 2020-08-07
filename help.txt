@@ -7,3 +7,5 @@ adding a file to git
 #git add "fileName"
 #git commit
 #git push origin master
+
+greate tute on GIT https://www.youtube.com/watch?v=9p2d-CuVlgc&t=7s
